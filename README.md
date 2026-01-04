@@ -1,8 +1,9 @@
 # docker-odoo-19
+Cómo instalar odoo 19 con docker
 
 # Clonar el repo
 ```
-
+git clone https://github.com/falconsoft3d/docker-odoo-19.git
 cd docker-odoo-19
 ```
 
