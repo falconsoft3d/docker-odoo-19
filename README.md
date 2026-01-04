@@ -7,9 +7,15 @@ git clone https://github.com/falconsoft3d/docker-odoo-19.git
 cd docker-odoo-19
 ```
 
+# Levantar el docker
+```
+docker-compose up -d
+```
 
 # Levantar el docker
 ```
+cd /root
+docker-compose down
 docker-compose up -d
 ```
 
