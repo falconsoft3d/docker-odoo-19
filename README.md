@@ -1,5 +1,12 @@
 # docker-odoo-19
 
+# Clonar el repo
+```
+
+cd docker-odoo-19
+```
+
+
 # Levantar el docker
 ```
 docker-compose up -d
