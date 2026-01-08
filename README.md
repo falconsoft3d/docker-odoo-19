@@ -9,6 +9,8 @@ cd docker-odoo-19
 
 # Levantar el docker
 ```
+apt install docker-compose
+apt-get update && apt-get upgrade -y
 docker-compose up -d
 ```
 
