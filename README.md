@@ -21,6 +21,15 @@ docker-compose down
 docker-compose up -d
 ```
 
+# Si te da error filestore
+```
+mkdir -p filestore
+sudo chown -R 101:101 filestore
+sudo chmod -R 775 filestore
+docker-compose down
+docker-compose up -d
+```
+
 # Listar los dockers
 ```
 docker ps
